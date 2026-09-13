@@ -1,0 +1,19 @@
+# Dependencies
+node_modules/
+.pnpm-store/
+
+# Portable Git
+mingit/
+get_git.ps1
+setup_github.ps1
+
+# System & Temp
+.DS_Store
+Thumbs.db
+*.tmp
+*.log
+
+# Deployment Archives
+DIPAS_Enterprise_Deploy_Package.zip
+dist/
+build/
